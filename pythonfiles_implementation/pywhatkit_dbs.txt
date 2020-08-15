@@ -1,26 +1,12 @@
 --------------------
 Date: 14:8:2020
-Time: 22:11
-Phone number: +919704107334
-Message: The temperature here is 25.40 with humidity being 85
---------------------
-Date: 14:8:2020
-Time: 22:29
-Phone number: +919704107334
-Message: The temperature is bit low. Dont forget to wear your winter clothing
---------------------
-Date: 14:8:2020
 Time: 22:34
-Phone number: +919912251001
+Phone number: +9199********
 Message: The temperature is bit low. Dont forget to wear your winter clothing
 --------------------
 Date: 14:8:2020
 Time: 22:39
-Phone number: +919912251001
+Phone number: +9199********
 Message: The temperature is bit low. Dont forget to wear your winter clothing
 --------------------
-Date: 15:8:2020
-Time: 22:39
-Phone number: +919912251001
-Message: The temperature is bit low. Dont forget to wear your winter clothing
---------------------
+
