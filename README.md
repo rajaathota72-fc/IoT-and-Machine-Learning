@@ -3,3 +3,6 @@ The following repository consists of documents and video links of the talks deli
 
 Part 1 - Youtube link
 https://www.youtube.com/watch?v=92sB6JZkK_0
+
+Part 2 - Youtube link
+https://www.youtube.com/watch?v=uHRaLk3gYIA&t=225s
